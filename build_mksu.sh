@@ -2,8 +2,8 @@
 set -e
 
 OLD_DIR=$(pwd)
-ANDROID_VERSION="android14"
-KERNEL_VERSION="6.1"
+ANDROID_VERSION="android15"
+KERNEL_VERSION="5.15"
 SUSFS_VERSION="1.5.5"
 CPUD="pineapple"
 
