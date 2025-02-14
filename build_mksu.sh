@@ -5,7 +5,7 @@ OLD_DIR=$(pwd)
 ANDROID_VERSION="android15"
 KERNEL_VERSION="5.15"
 SUSFS_VERSION="1.5.5"
-CPUD="pineapple"
+CPUD="kalama"
 
 # Initialize repo and sync
 rm -f kernel_platform/common/android/abi_gki_protected_exports_* || echo "No protected exports!"
