@@ -50,6 +50,6 @@ git clone https://github.com/Kernel-SU/AnyKernel3 --depth=1
 rm -rf ./AnyKernel3/.git
 cp out/dist/Image ./AnyKernel3/
 
-ZIPNAME="Anykernel3-MKSU-SUSFS-${KSU_VERSION}-OnePlus_ACE_3_Pro.zip"
+ZIPNAME="Anykernel3-MKSU-SUSFS-${KSU_VERSION}-OnePlus_ACE_2_Pro.zip"
 cd ./AnyKernel3
 zip -r "../$ZIPNAME" ./*
